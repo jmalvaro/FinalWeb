@@ -1,0 +1,52 @@
+.header{
+  background-color: #faf2eb;
+}
+
+.logo-text{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+}
+
+.navbar .nav-item .nav-link {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
+  color: #202022; 
+}
+.redes {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.redes a {
+  font-size: 1.1rem;     
+  color: #202022;       
+  margin-right: 5px;  
+  text-decoration: none; 
+}
+
+.redes a:hover {
+  color: #1DA1F2; /* Cambia el color al pasar el mouse */
+}
+
+.buscador .input-group {
+  width: 1000%; 
+}
+
+.buscador .form-control {
+  background-color: transparent;
+  border: 1px solid #ccc; 
+}
+
+.buscador .input-group-text {
+  background-color: transparent;
+  border: 1px solid #ccc; 
+}
