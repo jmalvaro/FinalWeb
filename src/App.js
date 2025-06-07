@@ -5,6 +5,7 @@ import React from 'react';
 import Header from './Componentes/Header';
 import HeroSection from './Componentes/HeroSection';
 import CardSection from './Componentes/CardSection';
+import Colaboracion from './Componentes/Colaboracion';
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
       <Header />
       <HeroSection />
       <CardSection />
+      <Colaboracion />
     </div>
   );
 }
