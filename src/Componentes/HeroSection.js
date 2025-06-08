@@ -3,7 +3,7 @@ import img1 from '../Img/img1.jpg';
 
 const HeroSection = () => {
     return (
-        <div className="hero-section py-5">
+        <div id="hero" className="hero-section py-5">
             <div className="container">
                 <div className="row equal-height g-5">
                     <div className="col-12 col-md-6">

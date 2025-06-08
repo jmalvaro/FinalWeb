@@ -5,7 +5,7 @@ import img3 from '../Img/img4.jpg'
 
 const CardSection = () => {
   return (
-    <div className="card-section pb-5">
+    <div id="coleccion" className="card-section pb-5">
         <div className="container">
             <div className="row">
                 <div className="col-12 col-md-4 mb-4 mb-md-0 ">

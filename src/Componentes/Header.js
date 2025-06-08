@@ -17,19 +17,19 @@ const Header = () => {
           <div className="col-12 col-md-8  navbar d-flex align-items-center h-100">
             <ul className="nav justify-content-center align-items-center w-100">
               <li className="nav-item">
-                <a className="nav-link" href="#">Inicio</a>
+                <a className="nav-link" href="#hero">Inicio</a>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="#">Sobre Nosotros</a>
+                <a className="nav-link" href="#nosotros">Sobre Nosotros</a>
               </li>
               <li className="nav-item logo">
                 <h1 className="logo-text">EMILY GRACE</h1>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="#">Colección</a>
+                <a className="nav-link" href="#coleccion">Colección</a>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="#">Contáctanos</a>
+                <a className="nav-link" href="#contacto">Contáctanos</a>
               </li>
             </ul>
           </div>
