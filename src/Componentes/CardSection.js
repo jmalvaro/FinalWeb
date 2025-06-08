@@ -11,26 +11,26 @@ const CardSection = () => {
                 <div className="col-12 col-md-4 mb-4 mb-md-0 ">
                     <Card
                         imgURL={img1}
-                        titulo="Título de la tarjeta 1"
-                        contenido="Contenido de la tarjeta 1"
-                        precio="$10"
+                        titulo="Silla Vintage Madera Curva"
+                        contenido="Espectacular silla de los años 70 con reposabrazos en madera curva. Unas piezas de fácil mantenimiento gracias a su tapicería en escay. Base en acero cromado restaurada y con sus brillos originales recuperados."
+                        precio="250.00€"
                     /> 
                 </div> 
 
                 <div className="col-12 col-md-4 mb-4 mb-md-0">
                     <Card
                         imgURL={img2}
-                        titulo="Título de la tarjeta 2"
-                        contenido="Contenido de la tarjeta 2"
-                        precio="$20"
+                        titulo="Estantería Arco Bambú"
+                        contenido="Gran estantería de suelo arco en bambú. Una bonita pieza con nueve espaciosos estantes de cristal transparente. Un mueble de líneas curvas muy práctico y decorativo."
+                        precio="380.00€"
                     />
                 </div>
                 <div className="col-12 col-md-4 mb-4 mb-md-0">
                     <Card
                         imgURL={img3}
-                        titulo="Título de la tarjeta 3"
-                        contenido="Contenido de la tarjeta 3"
-                        precio="$30"
+                        titulo="Perchero Mid-Century con Espejo"
+                        contenido="Espectacular perchero Mid-Century con espejo. La combinación de su estructura tubular en acero cromado con los detalles metálicos en un vibrante color verde hacen de esta pieza una auténtica joya práctica y decorativa."
+                        precio="195.00€"
                     />
                 </div>
 

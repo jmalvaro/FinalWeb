@@ -14,14 +14,11 @@ const HeroSection = () => {
                     <div className="col-12 col-md-6 p-0">
                         <div className="hero-content d-flex justify-content-center align-items-center">
                             <div className="text-center px-4">
-                                <h3 className="hero-title">THE SERVICE OFFERING</h3>
-                                <p>
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-                                    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-                                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
-                                    Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                                <h3 className="hero-title">REDESCUBRE EL ENCANTO DEL PASADO</h3>
+                                <p className='hero-description'>
+                                      En Emily Grace seleccionamos cuidadosamente cada pieza para que tu hogar respire historia, diseño y calidez. Muebles originales de los años 50, 60 y 70 restaurados con amor, listos para una nueva vida contigo.
                                 </p>
-                                <button type="button" className="btn btn-dark rounded-0">LET'S CHAT</button>
+                                <button type="button" className="btn btn-dark rounded-0">VER COLECCIÓN</button>
                             </div>
                         </div>
                     </div>
